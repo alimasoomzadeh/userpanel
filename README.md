@@ -1,7 +1,7 @@
 # userpanel (react, ant.design)
 
 ## Getting Started  
-Open [http://192.168.1.106:8000/](http://192.168.1.106:8000/) to view it in the browser.
+Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser.
 
      
 ## Prerequisites    
