@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.headerPage{
+  background-color: #0B3D63 !important;
+  color: #CBCBCB !important;
+}
+.headerPage h1{
+  color: #CBCBCB !important;
+}
+
+.boxForm{
+  text-align: center;
+  background-color: #1c8adb;
+  color: #CBCBCB !important;
+  margin-top: 2%;
+}
+.boxForm h1{
+  color: #CBCBCB !important;
+}
+
+.LayoutPage{
+  background-color: #CBCBCB !important;
+}
+
+.boxUserPanelForm{
+  background: #ffffff  !important;
+  padding: 24px 0;
+}
+.boxMenu{
+  background: #10507f  !important;
+  height: 100%;
+}
+
+.ant-menu-item-selected {
+  background-color: #CBCBCB !important;
+  color: #0B3D63 !important;
+}
+
+.breadcrumbStyle{
+  margin: 16px 0 !important;
+  font-size: 20px  !important;
+  font-weight: 600  !important;
+
+}
+
+
+.iconLogout{
+  color:#CBCBCB !important;
+  font-size: 20px !important;
+  cursor: pointer;
+}
+.iconLogout:hover{
+  color: rgba(143, 143, 143, 0.58) !important;
+}
+
+.colorButton{
+  background-color: #10507f !important;
+}
+.pmError{
+  color: red;
+}
+
+
